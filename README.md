@@ -13,3 +13,4 @@ https://tarekyou.github.io/horiseon-challenge1/
 ## Contribution
 Made with ❤️ by Tarek
 
+### ©️2019 Horiseon Social Solutions Services, Inc 
